@@ -1,0 +1,7 @@
+{
+  "name": "ronoddo",
+  "website": "ronoddo.xyz",
+  "description": "superduperman",
+  "logo": "https://pngimg.com/uploads/superman/superman_PNG21.png",
+  "twitter": "https://twitter.com/ronoddo_"
+}
